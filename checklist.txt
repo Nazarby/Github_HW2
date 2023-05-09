@@ -1,0 +1,12 @@
+
+Checklist attributes:
+1. Number
+2. Priority
+2. Title
+3. Environment
+4. Precondition
+6. STR (steps to reproduce)
+7. ER (expected result)
+9. Status
+10. Attachments
+
